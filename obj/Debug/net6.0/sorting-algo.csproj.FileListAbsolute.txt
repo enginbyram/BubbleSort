@@ -1,0 +1,15 @@
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.csproj.AssemblyReference.cache
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.AssemblyInfoInputs.cache
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.AssemblyInfo.cs
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.csproj.CoreCompileInputs.cache
+D:\.repo\sorting-algo\bin\Debug\net6.0\sorting-algo.exe
+D:\.repo\sorting-algo\bin\Debug\net6.0\sorting-algo.deps.json
+D:\.repo\sorting-algo\bin\Debug\net6.0\sorting-algo.runtimeconfig.json
+D:\.repo\sorting-algo\bin\Debug\net6.0\sorting-algo.dll
+D:\.repo\sorting-algo\bin\Debug\net6.0\sorting-algo.pdb
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.dll
+D:\.repo\sorting-algo\obj\Debug\net6.0\refint\sorting-algo.dll
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.pdb
+D:\.repo\sorting-algo\obj\Debug\net6.0\sorting-algo.genruntimeconfig.cache
+D:\.repo\sorting-algo\obj\Debug\net6.0\ref\sorting-algo.dll
